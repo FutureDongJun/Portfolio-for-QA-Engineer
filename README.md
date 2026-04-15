@@ -64,7 +64,3 @@
 | 💾 SQL 쿼리    | [이동/](SQL_Queries/)       | DB 무결성 확인 및 데이터 검증을 위한 SQL 쿼리문 모음         |
 
 ---
-
-### 📌 진행했던 프로젝트
-- 📑 **과방(커뮤니티 플랫폼):** https://github.com/FutureDongJun/gwabang
-- 📑 **EXPO 수상 게임 프로젝트:** https://github.com/FutureDongJun/CSI-project
