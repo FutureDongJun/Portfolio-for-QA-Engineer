@@ -52,24 +52,6 @@
 - 데이터베이스 : MySQL, SQLite, ERD 분석
 - 방법론 : 애자일, 워터폴, V모델에 대한 이해 
 - 그레이-박스 테스팅 : Query 활용, REST APIs, Server Logs 분석
----
-
-## 📁 Repository Structure
-
-```
-📂 QA-Portfolio/
-│
-├ 🧪 Test_Cases       # Sample functional test cases for mobile and web  
-├ 📋 Bug_Reports      # Structured issue reports in Markdown format  
-├ 🗂️ Test_Plans       # Lightweight strategy documents for QA cycles  
-├ ✅ Checklists       # UI, accessibility, and localization guides  
-├ 🔌 API_Testing      # Postman collections and mock responses  
-├ 💾 SQL_Queries      # Sample SQL queries for validation and inspection  
-├ 📊 Test_Reports     # Final test execution summaries and result logs  
-├ 🧠 Mindmaps         # Visual diagrams for QA process planning
-```
-
----
 
 ### 📁 Explore QA Artifacts
 
