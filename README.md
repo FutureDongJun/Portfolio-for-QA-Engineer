@@ -39,7 +39,7 @@
 🔍 사용자가 신뢰할 수 있는 안정적인 배포를 위해, **과정**을 추구하는 집요함으로 품질을 사수합니다.
 
 - 📧 **이메일:** kdjun1234@gmail.com
-- 📄 **이력서&자기소개서:** (https://github.com/FutureDongJun/Portfolio-for-QA-Engineer/blob/main/%EA%B0%95%EB%8F%99%EC%A4%80_%EC%9D%B4%EB%A0%A5%EC%84%9C_260414.pdf)
+- 📑 **이력서&자기소개서:** [PDF 파일 보기](https://github.com/FutureDongJun/Portfolio-for-QA-Engineer/blob/main/%EA%B0%95%EB%8F%99%EC%A4%80_%EC%9D%B4%EB%A0%A5%EC%84%9C%EB%B0%8F%EC%9E%90%EA%B8%B0%EC%86%8C%EA%B0%9C%EC%84%9C_260414.pdf)
 - 📍 **지역:** 서울, 동작구(취업 시 근무지 도처에 이사 예정)
   
 ---
