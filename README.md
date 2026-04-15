@@ -27,42 +27,31 @@
 ## 👤 나에 대해
 
 💼 **QA 엔지니어 신입 지망**
-🎯 Specializing in full-cycle software testing, quality processes, and bringing clarity through structured QA and reliable manual testing practices.
+🎯 품질의 가치를 믿는 집요한 분석가 강동준입니다. 삐걱거리는 로직 속에서 결함의 원인을 찾아내는 데 즐거움을 느낍니다. 단순한 기능 확인을 넘어, 제품의 생명력을 연장하는 체계적인 QA 프로세스를 지향합니다.
 
-🧠 Proven track record in:
-- Designing and implementing QA processes from the ground up
-- Manual testing in Agile/Scrum workflows
-- Leading and mentoring QA teams
-- Enhancing product quality and user experience
-- Ensuring clear documentation and efficient bug triage
+🧠 QA로서의 역량 및 활동 :
 
-🔍 Passionate about crafting clean and predictable releases users can trust through thoughtful testing and continuous process improvement.
+- 기술 소통 능력: Java 멘토 활동을 통해 다져진 개발자와의 원활한 기술 커뮤니케이션
+- 기획 명세 기반의 테스트 설계: 요구사항 정의서와 기능 명세서를 직접 작성하며 구축한 탄탄한 Test Basis 활용 능력
+- 기술적 결함 분석 (Gray-box Testing): API 응답값 및 SQL 기반의 데이터 무결성 직접 검증 가능
+- 640시간의 풀스택 개발 교육 이수: 웹 서비스 아키텍처(React/Spring)에 대한 이해도 보유
 
-- 📧 **Email:** egook@outlook.com  
-- 🔗 **LinkedIn:** [Ievgen Guk](https://www.linkedin.com/in/egooki)  
-- 📄 **Resume:** [Preview & Download PDF](https://1drv.ms/b/c/e66366535f32e7c7/EXD_G6gheA1PvgbJ70Sh7swBSeLztuoZ_MEryjcCtOYXzg)  
-- 📍 **Location:** Košice, Slovakia  
-- 🕒 **Time Zone:**  
-  - ❄️ **CET (UTC+1):** Central European Time - used in winter   
-  - ☀️ **CEST (UTC+2):** Central European Summer Time - applies during Daylight Saving Time *(from last Sunday in March to last Sunday in October)*  
-- 🌐 **Languages:**  
-  - ![UA](https://flagcdn.com/w20/ua.png) Ukrainian (native)  
-  - ![GB](https://flagcdn.com/w20/gb.png) English (upper intermediate | B2)  
-  - ~~russian (advanced)~~  
-  - ![SK](https://flagcdn.com/w20/sk.png) Slovak *(with serious help from dictionary, translator apps, and AI companions — and still questionable mutual understanding)*  
+🔍 사용자가 신뢰할 수 있는 안정적인 배포를 위해, **과정**을 추구하는 집요함으로 품질을 사수합니다.
 
+- 📧 **이메일:** kdjun1234@gmail.com
+- 📄 **이력서&자기소개서:** (https://github.com/FutureDongJun/Portfolio-for-QA-Engineer/raw/main/%EA%B0%95%EB%8F%99%EC%A4%80_%EC%9D%B4%EB%A0%A5%EC%84%9C_260414.pdf)
+- 📍 **지역:** 서울, 동작구(취업 시 근무지 도처에 이사 예정)
+  
 ---
 
 ## 🧰 Skills & Tools
 
-- Functional, Regression, Smoke, Exploratory Testing  
-- Accessibility & Localization Testing (Lighthouse, Axe, OneSky, Wave)  
-- Mobile QA: iOS, Android, React Native  
-- API Testing: Fiddler, Postman, Charles Proxy, Swagger  
-- Agile Methodologies: Scrum, Kanban  
-- Tools: Jira, Confluence, TestRail, BrowserStack, Figma  
-- Grey-box Testing: SQL, REST APIs, logs
-
+- 테스트 : 기능 테스트, 리그레션 테스트, 스모크 테스트
+- API 테스트 도구 : Postman, Swagger, Browser DevTools
+- 협업 도구 : Github, Slack, Notion
+- 데이터베이스 : MySQL, SQLite, ERD 분석
+- 방법론 : 애자일, 워터폴, V모델에 대한 이해 
+- 그레이-박스 테스팅 : Query 활용, REST APIs, Server Logs 분석
 ---
 
 ## 📁 Repository Structure
@@ -165,27 +154,3 @@
 </details>
 
 ---
-
-## 🧾 License
-
-This repository is licensed under the [MIT License](LICENSE).  
-
-You are free to use, modify, and distribute the materials **with proper attribution** to the author (yep, that fabulous individual is me! 😎).
-
-GitHub profile for attribution: [Ukrainian QA dude - Ievgen (Eugene) Guk](https://github.com/eGoOki).
-
-Sharing is caring, plagiarism is… less charming.
-
----
-
-Thanks for stopping by. 
-
-If this repo made your day 0.5% better — my job here is done 😎
-
-Feel free to drop a star ⭐ and send bug-free vibes 🚀
-
-QA out.  
-
-Stay safe out there, and never stop supporting Ukraine ![UA](https://flagcdn.com/w20/ua.png)  
-
-In code we trust *(or not)*. In peace we believe.
