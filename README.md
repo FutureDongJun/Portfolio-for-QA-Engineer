@@ -73,84 +73,12 @@
 
 ### 📁 Explore QA Artifacts
 
-| 📦 Section       | 🔗 Link                            | 📝 Description                                                  |
+| 📦 구역       | 🔗 링크                            | 📝 설명                                                  |
 |------------------|------------------------------------|------------------------------------------------------------------|
-| 🧪 Test Cases     | [Test_Cases/](Test_Cases/)         | Functional test cases with clear steps and expected outcomes     |
-| 📋 Bug Reports    | [Bug_Reports/](Bug_Reports/)       | Issue reports with reproduction steps and observed behavior      |
-| 🗂️ Test Plans     | [Test_Plans/](Test_Plans/)         | Strategy documents outlining testing scope, goals, and approach  |
-| ✅ Checklists     | [Checklists/](Checklists/)         | Validation guides for design, accessibility, and localization    |
-| 🔌 API Testing    | [API_Testing/](API_Testing/)       | Postman samples, mock API responses, request validations         |
-| 💾 SQL Queries    | [SQL_Queries/](SQL_Queries/)       | SQL queries for data validation, joins, and aggregations         |
-| 📊 Test Reports   | [Test_Reports/](Test_Reports/)     | Metrics and release-level execution summaries                    |
-| 🧠 Mindmaps       | [Mindmaps/](Mindmaps/)             | QA logic flows and planning diagrams                             |
-
-> All materials are designed for educational and demonstrative purposes.
-
----
-
-## 🎓 Selected Certifications
- 
-💬 *"Continuous learner with 60+ professional certifications... and counting."*  
-
-#### 🔍 QA & Management Highlights:
-
-- ⚙️ **API Testing Foundations**  
-  *Skills:* API Testing · REST · SQA · Web Testing  
-- 🧪 **Test Planning / Preparation / Techniques**  
-  *Skills:* Test Cases · Test Design · Mobile Testing · Regression Testing 
-- 📊 **Quality Management Foundations**  
-  *Skills:* Quality Management · Project Leadership · Rally  
-- 🌀 **Atlassian Agile Project Mgmt Pro Cert**  
-  *Skills:* Jira · Agile · Project Leadership · Kanban  
-- 🎯 **Software Testing Foundations: Test Management**  
-  *Skills:* Regression Testing · QA · Rally · Mobile Testing
-
-<details>
-  <summary>📚 Show more – Tap to Expand</summary>
-
-#### 🧪 Testing Techniques:
-- **Snagit Certification** – TechSmith  
-- **Alpha Testing in Agile World**
-- **Exploratory Testing**
-- **Penetration Testing and Ethical Hacking** 
-- **Bug Writing and Management**
-- **Scripting for Testers**
-- **Continuous Testing and DevOps**
-- **Transitioning to Automation**
-- **Becoming a Product Tester**
-- **Agile Testing**
-- **Testing Throughout SDLC**
-- **Chrome DevTools · Web Performance**
-- **Test Automation Foundations**
-
-#### 🤖 Productivity & Tools:
-- **Career Essentials in GitHub**
-- **AI for Managers**
-- **Boosting Productivity with AI**
-- **Generative AI for Research**
-- **LambdaTest Pro Certification**
-- **Learning Jira · Rally · Mantis**
-
-#### ☁️ DevOps & Cloud:
-- **Azure DevOps (for non-programmers)**
-- **AZ-900 Microsoft Azure Fundamentals**
-- **Learning Azure DevOps · AWS Essentials**
-
-#### 📊 Project Management Series:
-- **Getting Started with Microsoft Project**
-- **Project Leadership**
-- **Planning for Successful Projects**
-- **Microsoft Project in Business Situations**
-- **Meeting Planning · Delegating Tasks · Strategic Thinking**
-
-#### 🛠️ Other:
-- **React Native Essential Training**
-- **ServiceNow & ITSM**
-- **Behavior-Driven Development**
-- **Understanding Manual Testing**
-- **Jira Work Management Fundamentals**
-- **Common Meeting Problems**
-
-</details>
+| 🧪 테스트 케이스     | [이동/](Test_Cases/)         | 기능 명세를 바탕으로 설계한 상세 테스트 케이스 명세서     |
+| 📋 버그 리포트    | [이동/](Bug_Reports/)       | 결함 재현 경로 및 원인 분석을 포함한 상세 결함 리포트      |
+| 🗂️ 테스트 계획     | [이동/](Test_Plans/)         | 테스트 범위, 환경 및 전략을 정의한 테스트 계획서  |
+| 🔌 API 테스트    | [이동/](API_Testing/)       | Postman을 활용한 API 응답 및 통신 정합성 검증 기록         |
+| 💾 SQL 쿼리    | [이동/](SQL_Queries/)       | DB 무결성 확인 및 데이터 검증을 위한 SQL 쿼리문 모음         |
 
 ---
