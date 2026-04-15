@@ -1,4 +1,4 @@
-# 🕵️‍♂️ Ievgen Guk – Manual QA Engineer Portfolio
+# 🕵️‍♂️ 강동준 – QA 엔지니어 포트폴리오
 
 <!-- <p align="center">
   <img src="https://img.shields.io/badge/QA--Portfolio-Manual--Testing-blue.svg" />
@@ -17,17 +17,16 @@
 
 --- -->
 
-Hi there! 👋 I'm **Ievgen Guk** *(pronounced like "Yevhen", also known as Eugene)* - a Lead/Senior Manual QA Engineer with 17+ years of hands-on experience in software testing, including mobile (iOS/Android), web, and desktop platforms.
+안녕하세요! 저는 **강동준** 입니다. - 🎓 컴퓨터공학 전공 4년제 학사를 취득했고, 640시간 풀스택 국비 교육을 이수했으며 팀원들과 함께 캡스톤 EXPO에 출전해 IT 부문 장려상을 수상한 이력이 있습니다!
 
-This repository showcases sample materials that reflect my approach to testing, reporting, and QA strategy.  
-
-🔒 *All content is fictional or generalized to respect client confidentiality (NDAs).*
+이 레포지토리에 있는 폴더 혹은 파일들은 제가 전공 시절 진행했던 프로젝트&졸업 이후에 진행했던 프로젝트들로 하여금 TC 설계와 이슈 리포트 등을 작성한 것을 망라한 것 입니다.
+취업 후에도 스터디&개인 프로젝트 활동에 참여하게 되면 추가하거나 업데이트 할 예정입니다.
 
 ---
 
-## 👤 About Me
+## 👤 나에 대해
 
-💼 **Manual QA Engineer**  
+💼 **QA 엔지니어 신입 지망**
 🎯 Specializing in full-cycle software testing, quality processes, and bringing clarity through structured QA and reliable manual testing practices.
 
 🧠 Proven track record in:
