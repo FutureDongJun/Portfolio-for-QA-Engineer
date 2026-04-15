@@ -44,7 +44,7 @@
   
 ---
 
-## 🧰 Skills & Tools
+## 🧰 스킬&도구
 
 - 테스트 : 기능 테스트, 리그레션 테스트, 스모크 테스트
 - API 테스트 도구 : Postman, Swagger, Browser DevTools
@@ -53,7 +53,7 @@
 - 방법론 : 애자일, 워터폴, V모델에 대한 이해 
 - 그레이-박스 테스팅 : Query 활용, REST APIs, Server Logs 분석
 
-### 📁 Explore QA Artifacts
+### 📁 QA 아티팩트
 
 | 📦 구역       | 🔗 링크                            | 📝 설명                                                  |
 |------------------|------------------------------------|------------------------------------------------------------------|
@@ -64,3 +64,7 @@
 | 💾 SQL 쿼리    | [이동/](SQL_Queries/)       | DB 무결성 확인 및 데이터 검증을 위한 SQL 쿼리문 모음         |
 
 ---
+
+### 📌 진행했던 프로젝트
+- 📑 **과방(커뮤니티 플랫폼):** https://github.com/FutureDongJun/gwabang
+- 📑 **EXPO 수상 게임 프로젝트:** https://github.com/FutureDongJun/CSI-project
