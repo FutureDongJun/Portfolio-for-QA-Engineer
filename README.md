@@ -44,6 +44,17 @@
   
 ---
 
+## 🧰 교육&프로젝트 이력
+
+### 캡스톤 디자인 출품 게임 개발
+
+
+### 풀스택 국비 교육 수료
+
+
+### 학과방 (Gwabang) - 학과 기반 커뮤니티
+[Github Repository](https://github.com/FutureDongJun/gwabang)
+
 ## 🧰 스킬&도구
 
 - 테스트 : 기능 테스트, 리그레션 테스트, 스모크 테스트
