@@ -56,7 +56,7 @@
 
 ###3. 학과방 (Gwabang) - 학과 기반 커뮤니티
 - 기술적 감각을 유지하기 위해 기획부터 배포까지 프론트엔드 로직을 제외하고 1인 다역으로 수행한 프로젝트입니다. 개발 과정에서 발생한 수많은 결함을 직접 마주하며 '체계적인 검증'이 제품의 생명력에 미치는 리스크를 뼈저리게 체감한 QA 입문의 결정적 계기가 되었습니다.
-[🔗Github Repository](https://github.com/FutureDongJun/gwabang)
+- [🔗Github Repository](https://github.com/FutureDongJun/gwabang)
 
 ## 🧰 스킬&도구
 
